@@ -1,0 +1,5 @@
+commit e664716162ddcf036493d50c9c5f3d6cc0a7666a
+Author: Jota Freitas Jr <jotafreitasjr@gmail.com>
+Date:   Tue Mar 12 13:39:23 2019 -0300
+
+    Created branch BetterScripting
